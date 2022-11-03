@@ -1,5 +1,5 @@
 public class Main {
-
+//перенос дз в отдельную ветку//
     public static void main(String[] args) {
         int ios = 0;
         int android = 1;
